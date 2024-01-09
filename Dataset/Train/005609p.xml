@@ -1,0 +1,26 @@
+<annotation>
+	<folder>partial_label</folder>
+	<filename>005609p.jpg</filename>
+	<path>/home/julia/projects/aigo/auto_label/partial_label/005609p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aligned</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>2</ymin>
+			<xmax>293</xmax>
+			<ymax>74</ymax>
+		</bndbox>
+	</object>
+</annotation>
