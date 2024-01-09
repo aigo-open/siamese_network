@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_p1</folder>
+	<filename>001353p.jpg</filename>
+	<path>/home/julia/projects/aigo/auto_label/train_p1/001353p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>misaligned</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>415</ymin>
+			<xmax>396</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>
